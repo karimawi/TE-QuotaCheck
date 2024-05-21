@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source srcset="https://i.imgur.com/mV5Q1bL.png" media="(prefers-color-scheme: dark)">
-    <img src="https://i.imgur.com/31oBfHU.png" alt="Image for light mode" style="width: 100px;">
+    <img src="https://i.imgur.com/31oBfHU.png" alt="(WE) Telecom Egypt Quota Check" style="scale: 50%;">
   </picture>
 </p>
 
