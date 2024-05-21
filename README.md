@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="https://i.imgur.com/mV5Q1bL.png" media="(prefers-color-scheme: dark)">
-    <img src="https://i.imgur.com/31oBfHU.png" alt="(WE) Telecom Egypt Quota Check" height="150px"">
+    <source srcset="https://github.com/karimawi/TE-QuotaCheck/assets/69881381/38fc894a-9608-49eb-b8a4-6106e6845d46" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/karimawi/TE-QuotaCheck/assets/69881381/c03d3254-bf0c-4aaf-bdde-0f27b94c7549" alt="(WE) Telecom Egypt Quota Check" height="150px"">
   </picture>
 </p>
 <br>
@@ -9,8 +9,7 @@
 <p>
 A Program written in Python that fetches your current quota details for WE (Telecom Egypt) ISP subscribers using their updated API, without you having to log in every time, this can be used and implemented in several ways, like regularly fetching and saving the results to calculate or graph usage, monitor consumption for SMEs who rely on an internet connection for their activities to calculate costs.
 <p/>
-<be>
-  
+<br>
 ### Preview:
 
 ![image](https://github.com/karimawi/TE-QuotaCheck/assets/69881381/e3cf28fb-4292-4f23-a425-b4ee034c41d4)
@@ -41,6 +40,14 @@ A Program written in Python that fetches your current quota details for WE (Tele
 Basically, everything is PSL (Python Standard Library) except for [Requests](https://github.com/psf/requests) which I'm using version 2.31.0 of
 ```ps
 pip install requests==2.31.0
+```
+
+### Configuration
+Follow at lines 9-11 (lol) in the [main.py](./main.py#L9) file
+```py
+# Your credentials
+lnd_number = "YOUR_LANDLINE_NUMBER" # Example: 0234567891 (make sure to have the 02 at the beginning
+lnd_pass = "YOUR_PASSWORD" # If you don't know or remember your password, you can reset it by clicking "Forgot Password?" at my.te.eg
 ```
 
 ### License
