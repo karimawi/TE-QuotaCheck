@@ -9,7 +9,8 @@
 <p>
 A Program written in Python that fetches your current quota details for WE (Telecom Egypt) ISP subscribers using their updated API, without you having to log in every time, this can be used and implemented in several ways, like regularly fetching and saving the results to calculate or graph usage, monitor consumption for SMEs who rely on an internet connection for their activities to calculate costs, and many other applications that may not be possible with just the mobile app or the website wich are not that quick when you have to login every single time.
 <p/>
-<br>
+<be>
+  
 ### Preview:
 
 ![image](https://github.com/karimawi/TE-QuotaCheck/assets/69881381/e3cf28fb-4292-4f23-a425-b4ee034c41d4)
