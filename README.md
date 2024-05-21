@@ -20,7 +20,7 @@ A Program written in Python that fetches your current quota details for WE (Tele
 ![image](https://github.com/karimawi/TE-QuotaCheck/assets/69881381/e3cf28fb-4292-4f23-a425-b4ee034c41d4)
 
 
-### Information Displayed:
+### Information Pulled:
 <p>
 <ul>
   <li>Landline Owner Name</li>
