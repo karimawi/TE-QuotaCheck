@@ -11,7 +11,7 @@ A Program written in Python that fetches your current quota details for WE (Tele
 
   <br>
   
-<h6>⚠️Please note that this program is not officially or directly affiliated with Telecom Egypt. The use of their API is conducted independently and is not based on any contractual agreement or formal association with Telecom Egypt.<h6/>
+<h6>⚠️Please note that this program is not officially or directly affiliated with Telecom Egypt. The use of their API is conducted independently and is not based on any contractual agreement or formal association with Telecom Egypt. Additionally, Telecom Egypt holds the copyrights to the original branding, which has been used and slightly modified in this README.<h6/>
 <p/>
 <br>
   
