@@ -15,12 +15,12 @@ A Program written in Python that fetches your current quota details for WE (Tele
 <p/>
 <br>
   
-### Preview:
+### 👁️ Preview:
 
 ![image](https://github.com/karimawi/TE-QuotaCheck/assets/69881381/e3cf28fb-4292-4f23-a425-b4ee034c41d4)
 
 
-### Information Pulled:
+### 📜 Information Pulled:
 <p>
 <ul>
   <li>Landline Owner Name</li>
@@ -33,7 +33,7 @@ A Program written in Python that fetches your current quota details for WE (Tele
 </ul>
 <p/>
 
-### Other Calculated Information:
+### 📃 Other Calculated Information:
 <p>
 <ul>
   <li>Usage Percentage</li>
@@ -41,13 +41,13 @@ A Program written in Python that fetches your current quota details for WE (Tele
 </ul>
 <p/>
 
-### Requirements
+### 🛠️ Requirements
 Basically, everything is PSL (Python Standard Library) except for [Requests](https://github.com/psf/requests) which I'm using version 2.31.0 of
 ```ps
 pip install requests==2.31.0
 ```
 
-### Configuration
+### ⚙️ Configuration
 Follow at lines 9-11 (lol) in the [main.py](./main.py#L9) file
 ```py
 # Your credentials
@@ -55,5 +55,5 @@ lnd_number = "YOUR_LANDLINE_NUMBER" # Example: 0234567891 (make sure to have the
 lnd_pass = "YOUR_PASSWORD" # If you don't know or remember your password, you can reset it by clicking "Forgot Password?" at my.te.eg
 ```
 
-### License
+### ⚖️ License
 You can use this however you want, but consider mentioning this Repo if you're going to use my code in an open-source project as I spent quite some time reverse-engineering their API after they had changed the authentication method.
