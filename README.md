@@ -33,7 +33,7 @@ A Program written in Python that fetches your current quota details for WE (Tele
 </ul>
 <p/>
 
-### 📃 Other Calculated Information:
+### 🧮 Other Calculated Information:
 <p>
 <ul>
   <li>Usage Percentage</li>
