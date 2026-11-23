@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **TE-QuotaCheck is no longer maintained.** It stopped working when WE added a captcha to its sign-in.
+>
+> It lives on as **[Klue](https://github.com/karimawi/Klue)**, a free desktop app for Windows, macOS and Linux that gets past WE's captcha on its own and shows your quota, balance and renewal date, with usage graphs and alerts (Vodafone lines too). Get it at **[klue.wkar.im](https://klue.wkar.im)**.
+
 <p align="center">
   <picture>
     <source srcset="https://github.com/karimawi/TE-QuotaCheck/assets/69881381/38fc894a-9608-49eb-b8a4-6106e6845d46" media="(prefers-color-scheme: dark)">
